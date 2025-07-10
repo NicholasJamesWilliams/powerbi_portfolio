@@ -132,18 +132,12 @@ font_code:           JetBrains Mono, Nanum Gothic Coding, Menlo, Monaco, Consola
 
 defaults:
   # You can use the following to enable comments on all posts.
-  - scope:
-      type:            posts
-    values:
-      applause_button:       true
+ 
   - scope:
       type:            powerbi
     values:
       applause_button:       true
-  - scope:
-      type:            tableau
-    values:
-      applause_button:        true 
+ 
       
   # Don't include documents in assets in the sitemap
   - scope:
