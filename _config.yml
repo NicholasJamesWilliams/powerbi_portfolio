@@ -85,7 +85,7 @@ share-links-active:
 
 # Add links to the sidebar.
 menu:
-  - title:           Power Bi
+  - title:           Power BI
     url:              /powerbi/
   - title:             Curriculum Vitae
     url:               /resume/
