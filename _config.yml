@@ -13,15 +13,17 @@ baseurl: "/powerbi_portfolio"
 lang: en
 title: Nicholas Williams
 description:     > 
-                  Check out my portfolio where I showcase my dedication as a data science professional and analyst. 
-                  Explore a variety of projects and insights highlighting my expertise in data analysis, visualization, 
-                  and programming. See how I blend technical skills with innovative solutions to address real-world 
-                  data challenges.
+
+                  Explore my Power BI portfolio where I bring data to life through interactive, user-friendly dashboards.
+                  Discover how I transform complex data into clear, impactful insights using expert-level Power Query and DAX. 
+                  From seamless data ingestion to polished report design, each project showcases my ability to build powerful, 
+                  visually engaging solutions that solve real-world problems.
+                 
 # A shorter description for the sidebar.
 tagline:         > 
-                  Data Scientist<br>  
-                  Data Analyst<br>  
-                  Financial Data Analyst
+                  Senior Power BI Developer<br>  
+                  Senior Data Analyst<br>  
+                  Senior Financial Data Analyst
 
 keywords: [
   'zakaria',
@@ -78,10 +80,10 @@ author:
   rss: true
 
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  googlescholar: true
+  twitter: false
+  facebook: false
+  linkedin: false
+  googlescholar: false
 
 # Add links to the sidebar.
 menu:
@@ -89,9 +91,7 @@ menu:
     url:               /posts/
   - title:           Power Bi
     url:              /powerbi/
-  - title:            Tableau
-    url:              /tableau/
-  - title:             Resume
+  - title:             Curriculum Vitae
     url:               /resume/
   - title:             About Me
     url:               /about/
@@ -207,7 +207,7 @@ collections:
 
 # Set the Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from the page, remove the line below.
-google_analytics: G-MQVC3P7J7K
+#google_analytics: G-MQVC3P7J7K
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
@@ -404,7 +404,7 @@ google-site-verification: "ULEUQTgeP918_7Ne8oTWQBhH5P0Yp-HV5J9Y27p9uZI"
 
 # Used for twitter cards
 twitter:
-  username:  AlsahfiZA
+  username:  
 
 # Used for facebook open graph
 # facebook:
@@ -414,12 +414,11 @@ twitter:
 
 # Used on index and about sites
 social:
-  name: Zakaria Alsahfi
+  name: Nicholas Williams
 links:
-- https://twitter.com/AlsahfiZA
-- https://github.com/Zakaria-Alsahfi
-- https://www.linkedin.com/in/zakariaalsahfi
-- https://scholar.google.co.uk/citations?user=aJR6B78AAAAJ&hl=en
+
+- https://github.com/NicholasJamesWilliams
+
 
 # Plugin Configs
 # ---------------------------------------------------------------------------------------
