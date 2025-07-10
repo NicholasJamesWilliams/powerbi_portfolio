@@ -26,26 +26,25 @@ tagline:         >
                   Senior Financial Data Analyst
 
 keywords: [
-  'zakaria',
-  'zakaria alsahfi',
-  'alsahfi',
-  'alsahafi',
-  'zakaria alsahafi',
+  'Nicholas Williams',
+  'Nicholas',
+  'Willaims',
   'portfolio',
   'Python',
-  'R',
   'SQL',
   'NLP',
   'Tableau',
   'Power Bi',
   'Data Science',
   'Data Analysis',
+  'Power Query'
+  'M'
+  'DAX'
   'Machine Learning',
   'Deep Learning',
   'Text Mining',
   'Data Visualization',
   'Data Mining',
-  'TensorFlow',
   'Statistics',
   'Statstical Modeling',
   'Algorithm',
@@ -76,7 +75,7 @@ author:
   name: Nicholas Williams
   email: nicholas-williams@live.co.uk
   # # Used by `jekyll-seo-tag`:
-  twitter: AlsahfiZA
+  twitter: NicholasWilliams
   rss: true
 
 share-links-active:
