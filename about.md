@@ -15,7 +15,7 @@ Combining technical expertise with strategic thinking, I bring a passion for cle
 
 | Logo | Certificate | Years earned |
 |:-:|:-:|:-:|
-| ![Microsoft]({{site.baseurl}}/assets/img/about/microsoft-logo.png){:height="165px" width="67px"} | [Microsoft Power BI Data Analyst]([https://learn.microsoft.com/api/credentials/share/en-gb/NicholasWilliams-7655/8C1E06818352525A?sharingId=723DE4ECB4864758) | June 2023 |
+| ![Microsoft]({{site.baseurl}}/assets/img/about/microsoft-logo.png){:height="165px" width="67px"} | [Microsoft Power BI Data Analyst](https://learn.microsoft.com/api/credentials/share/en-gb/NicholasWilliams-7655/8C1E06818352525A?sharingId=723DE4ECB4864758) | June 2023 |
 | 
 {:.smaller}
 
