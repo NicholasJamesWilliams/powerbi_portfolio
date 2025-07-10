@@ -33,6 +33,6 @@ Combining technical expertise with strategic thinking, I bring a passion for cle
 
 My work reflects a deep commitment to accuracy, clarity, and innovation in the field of data and analytics. I continually seek new challenges and opportunities to apply my technical expertise and strategic thinking to deliver measurable impact.
 
-- **Connect With Me**
+## Connect with me
 I invite you to explore my portfolio, and I’m always open to collaborating on projects or initiatives where data can make a meaningful difference.
 
