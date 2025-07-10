@@ -31,8 +31,8 @@ Combining technical expertise with strategic thinking, I bring a passion for cle
 - **Cross-Functional Collaboration**: Lead and influence cross-departmental teams to embed analytics into day-to-day operations, ensuring alignment between technical outputs and business objectives.
 - **Education & Advocacy**: Regular contributor to workshops, seminars, and knowledge-sharing sessions to promote awareness of the value of data science in academic and organisational settings.
 
-- My work reflects a deep commitment to accuracy, clarity, and innovation in the field of data and analytics. I continually seek new challenges and opportunities to apply my technical expertise and strategic thinking to deliver measurable impact.
+My work reflects a deep commitment to accuracy, clarity, and innovation in the field of data and analytics. I continually seek new challenges and opportunities to apply my technical expertise and strategic thinking to deliver measurable impact.
 
--**Connect With Me**
-- I invite you to explore my portfolio, and I’m always open to collaborating on projects or initiatives where data can make a meaningful difference.
+- **Connect With Me**
+I invite you to explore my portfolio, and I’m always open to collaborating on projects or initiatives where data can make a meaningful difference.
 
