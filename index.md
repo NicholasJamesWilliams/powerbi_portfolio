@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Zakaria Alsahfi – Freelance Data Analyst & Data Visualization Portfolio
-description: Freelance data analyst Zakaria Alsahfi showcases a powerful data visualization portfolio with Python, Excel, and real-world dashboards solving analytical challenges.
+title: Nicholas Williams – Freelance Data Analyst & Data Visualization Portfolio
+description: Freelance data analyst Nicholas Williams showcases a powerful data visualization portfolio with Python, Excel, and real-world dashboards solving analytical challenges.
 sitemap: true
 cover: true
 ---

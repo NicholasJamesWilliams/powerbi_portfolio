@@ -1,3 +1,5 @@
+{% assign assets_url = "/assets/" | relative_url %}
+
 {% if site.hydejack.no_inline_css or jekyll.environment == 'development' %}
   {% include_cached head/styles-no-inline.html %}
 {% else %}

@@ -1,2 +1,5 @@
+{% assign assets_url = "/assets/" | relative_url %}
+
+
 {% assign lang = include.lang | default:site.lang | default:'en' %}
 <link rel="alternate" href="{{ page.url | absolute_url }}" hreflang="{{ lang | downcase | replace:'_','-' }}">

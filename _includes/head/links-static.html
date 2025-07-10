@@ -1,9 +1,12 @@
+{% assign assets_url = "/assets/" | relative_url %}
+
+
 {% if plugins contains 'jekyll-feed' %}{% include head/feed-tag.html %}{% endif %}
 
-<link rel="shortcut icon"    href="{{ site.favicon          | default:'/assets/icons/favicon.ico'       | relative_url }}">
-<link rel="apple-touch-icon" href="{{ site.apple_touch_icon | default:'/assets/icons/touch-icon-192x192.png'  | relative_url }}">
+<link rel="shortcut icon"    href="{{ site.favicon          | default:'/{{ assets_url }}/icons/favicon.ico'       | relative_url }}">
+<link rel="apple-touch-icon" href="{{ site.apple_touch_icon | default:'/{{ assets_url }}/icons/touch-icon-192x192.png'  | relative_url }}">
 
-<link rel="manifest" href="{{ '/assets/site.webmanifest' | relative_url }}">
+<link rel="manifest" href="{{ '/{{ assets_url }}/site.webmanifest' | relative_url }}">
 
 {% if site.google_fonts %}
   {%- capture google_fonts_url %}{{ site.google_fonts_url | default:'https://fonts.googleapis.com' }}{%- endcapture -%}
@@ -17,9 +20,9 @@
   <link rel="dns-prefetch" href="https://www.google-analytics.com">
 {% endif %}
 
-<link rel="preload" href="{{ '/assets/img/swipe.svg' | relative_url }}" as="image" id="_hrefSwipeSVG">
+<link rel="preload" href="{{ '/{{ assets_url }}/img/swipe.svg' | relative_url }}" as="image" id="_hrefSwipeSVG">
 
-  <link rel="dns-prefetch" href="{{ '/assets/js/search-worker-9.1.6.js' | relative_url }}" as="worker" id="_hrefSearch">
+  <link rel="dns-prefetch" href="{{ '/{{ assets_url }}/js/search-worker-9.1.6.js' | relative_url }}" as="worker" id="_hrefSearch">
 {% if site.kramdown.math_engine == 'katex' %}
   {% capture katex_url %}{{ 'assets/bower_components/katex/dist/katex.min.css' | relative_url }}{% endcapture %}
   <link rel="dns-prefetch" href="{{ katex_url }}" id="_katexPreload">
@@ -40,5 +43,5 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 {% if site.lightbox %}
-  <link rel="stylesheet" href="/assets/css/lightbox.css">
+  <link rel="stylesheet" href="/{{ assets_url }}/css/lightbox.css">
 {% endif %}
