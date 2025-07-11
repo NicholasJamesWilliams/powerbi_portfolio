@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name: Zakaria Alsahfi
-  email: zakaria.sahfi@gmail.com
+  name: Nicholas Williams
+  email: nicholas-williams@live.co.uk
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -25,11 +25,11 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    linkedin: zakariaalsahfi
-    twitter: alsahfiza
-    github: zakaria-alsahfi
-    googlescholar: https://scholar.google.co.uk/citations?hl=en&user=aJR6B78AAAAJ
-    email: zakaria.sahfi@gmail.com
+    #linkedin: 
+   # twitter: 
+    github: https://nicholasjameswilliams.github.io/about/
+   # googlescholar: 
+    email: nicholas-williams@live.co.uk
 # Another author (optional)
 # author2:
 #   name: <firtname> <lastname>
