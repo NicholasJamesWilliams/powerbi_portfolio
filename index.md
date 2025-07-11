@@ -1,19 +1,23 @@
 ---
 layout: home
-title: Nicholas Williams – Freelance Data Analyst & Data Visualization Portfolio
-description: Freelance data analyst Nicholas Williams showcases a powerful data visualization portfolio with Python, Excel, and real-world dashboards solving analytical challenges.
+title: Nicholas Williams
+
 sitemap: true
 cover: true
 ---
 
-This website aims to compile and showcase captivating data visualizations and analyses. 
-By sharing these insights with the world, I hope to provide valuable solutions and knowledge to benefit others.
+Explore my Power BI portfolio, where I bring data to life through interactive, user-friendly dashboards.  
+This website showcases captivating data visualizations and in-depth analyses designed to inform and inspire.  
+Discover how I transform complex datasets into clear, actionable insights using expert-level Power Query and DAX.  
+From seamless data ingestion to polished report design, each project highlights my ability to deliver visually compelling, impactful solutions to real-world challenges.  
 {:.lead}
 
+---
 
-## Latest Posts
+### 🔗 Quick Links
 
-<!--posts-->
+- 📊 [Power BI Portfolio](/portfolio/)
+- 📄 [Curriculum Vitae](/resume/)
+- 👤 [About Me](/about/)
 
-
-See **[Posts](/posts/)** for more
+---

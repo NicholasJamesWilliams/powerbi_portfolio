@@ -20,13 +20,15 @@ Combining technical expertise with strategic thinking, I bring a passion for cle
 {:.smaller}
 
 
-- **Data & Analytics Expertise**: Skilled in analysing and interpreting complex data sets—including student enrolment and operational data—to uncover trends, inform strategic planning, and deliver actionable insights for both internal and external stakeholders.
+## Expertise
+
+- **Data & Analytics**: Skilled in analysing and interpreting complex data sets—including student enrolment and operational data—to uncover trends, inform strategic planning, and deliver actionable insights for both internal and external stakeholders.
 - **Workflow & Process Optimisation**: Experienced in designing and refining scalable workflows that enhance efficiency and ensure consistency across data operations and reporting processes.
 - **Business Intelligence & Visualisation**: Specialist in Power BI, building dynamic, interactive dashboards and robust data models that support key business decisions and promote a data-driven culture.
 - **Predictive Analytics & Forecasting**: Exposure to Python for developing predictive models, enabling proactive planning and trend forecasting with a strong foundation in statistical analysis.
 
-- **Broader Responsibilities**:
--
+## Broader Responsibilities
+
 - **Data Governance & Compliance**: Champion of high data integrity, implementing and enforcing governance policies that align with regulatory frameworks and industry best practices.
 - **Cross-Functional Collaboration**: Lead and influence cross-departmental teams to embed analytics into day-to-day operations, ensuring alignment between technical outputs and business objectives.
 - **Education & Advocacy**: Regular contributor to workshops, seminars, and knowledge-sharing sessions to promote awareness of the value of data science in academic and organisational settings.
