@@ -7,7 +7,7 @@ cover: true
 ---
 
 Explore my Power BI portfolio, where I bring data to life through interactive, user-friendly dashboards.  
-This website showcases captivating data visualizations and in-depth analyses designed to inform and inspire.  
+This website showcases captivating data visualisations and in-depth analyses designed to inform and inspire.  
 Discover how I transform complex datasets into clear, actionable insights using expert-level Power Query and DAX.  
 From seamless data ingestion to polished report design, each project highlights my ability to deliver visually compelling, impactful solutions to real-world challenges.  
 {:.lead}
