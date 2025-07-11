@@ -16,8 +16,8 @@ From seamless data ingestion to polished report design, each project highlights 
 
 ### 🔗 Quick Links
 
-- 📊 [Power BI Portfolio](/portfolio/)
-- 📄 [Curriculum Vitae](/resume/)
-- 👤 [About Me](/about/)
+- 📊 [Power BI Portfolio](powerbi_portfolio/portfolio/)
+- 📄 [Curriculum Vitae](powerbi_portfolio/resume/)
+- 👤 [About Me](powerbi_portfolio/about/)
 
 ---
