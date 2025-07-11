@@ -1,6 +1,6 @@
 ---
 layout: welcome
-title: "About"
+title: "About Me"
 permalink: /about/
 ---
 
