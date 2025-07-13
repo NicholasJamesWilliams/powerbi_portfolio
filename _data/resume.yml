@@ -1,3 +1,5 @@
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
 basics:
   name: "Nicholas Williams"
   label: "Senior BI Developer"
