@@ -116,7 +116,7 @@ education:
     startDate: "1999-09"
     endDate: "2004-06"
 
-certificates:
+certificate:
   - institution: "APM"
     area: "Project Management Qualification (PMQ)"
     date: "2018-03"
@@ -125,18 +125,4 @@ certificates:
     area: "Power BI Data Analyst Associate (PL-300)"
     date: "2024-01"
 
-awards:
-  - title: "Freedom Award"
-    date: "2022-01"
-    awarder: "Linnaeus Achievement Awards"
-    summary: "Recognised for outstanding contributions to business intelligence initiatives."
 
-skills:
-  - name: "Business Intelligence Tools"
-    keywords: ["Power BI", "DAX", "Power Query", "Power Automate", "Power Apps", "Dataflow", "Tabular Models"]
-  - name: "Data Tools & Languages"
-    keywords: ["SQL", "Excel", "SharePoint", "Microsoft Lists", "Forms", "Active Directory"]
-  - name: "Methodologies"
-    keywords: ["Agile", "Waterfall", "Azure DevOps Sprint Planning"]
-  - name: "Soft Skills"
-    keywords: ["Communication", "Stakeholder Engagement", "Training & Mentoring", "Analytical Thinking"]
