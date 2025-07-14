@@ -2,11 +2,11 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Zakaria Alsahfi"
-  label: "Data Scientist | Data analyst | Financial Data Analyst"
+  name: "Nicholas Williams"
+  label: "Senior BI Developer | Power BI Specialist | Data Consultant"
   picture: "/assets/img/my_photo.webp"
-  email: "zakaria.sahfi@gmail.com"
-  phone: "(+966) 05-3335-2211"
+  email: "nicholas-williams@live.co.uk"
+  phone: "+44 7817596249"
   website: ""
   # summary: >
   #             I am a highly motivated, team-oriented, and responsible data analyst with extensive experience in improving professionals'
@@ -16,12 +16,10 @@ basics:
   #             industry trends ensures that I am always striving to excel.
   
   profiles:
-    - network: "Twitter"
-      username: "Alsahfiza"
-      url: "https://twitter.com/alsahfiza"
+   
     - network: "LinkedIn"
-      username: "ZakariaAlsahfi"
-      url: "https://www.linkedin.com/in/zakariaalsahfi"
+      username: "NicholasWilliams"
+      url: "https://www.linkedin.com/in/nicholaswilliams"
 work:
   - company: "University of Business and Technology"
     position: "Director Of Information Affairs"
