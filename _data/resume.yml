@@ -1,138 +1,108 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Nicholas Williams"
-  label: "Senior BI Developer"
-  picture: "/assets/img/my_photo.webp"  # Replace with actual photo path
-  email: "nicholas-williams@live.co.uk"
-  phone: "+44 7817596249"  # Update with actual phone if needed
-  website: "https://nicholasjameswilliams.github.io/powerbi_portfolio"
+  name: "Zakaria Alsahfi"
+  label: "Data Scientist | Data analyst | Financial Data Analyst"
+  picture: "/assets/img/my_photo.webp"
+  email: "zakaria.sahfi@gmail.com"
+  phone: "(+966) 05-3335-2211"
+  website: ""
   # summary: >
-    Award-winning and highly skilled Business Intelligence professional with over a decade of experience delivering insight-driven data solutions across finance, operations, marketing, legal, and ecommerce functions. Specialist in Power BI and Microsoft technologies, known for building intuitive, user-friendly dashboards and leading enterprise-wide analytics initiatives that improve performance and drive decision-making.
-
+  #             I am a highly motivated, team-oriented, and responsible data analyst with extensive experience in improving professionals'
+  #             comprehension of reports and presentations at all levels. With a strong educational background and proficiency in both Arabic 
+  #             and English, I bring a diverse perspective to any project. I am dedicated to providing accurate and meaningful insights through 
+  #             data analysis and visualization. My commitment to continuously improving my skills and staying up-to-date with the latest 
+  #             industry trends ensures that I am always striving to excel.
+  
   profiles:
+    - network: "Twitter"
+      username: "Alsahfiza"
+      url: "https://twitter.com/alsahfiza"
     - network: "LinkedIn"
-      username: "NicholasWilliams"
-      url: "https://www.linkedin.com/in/nicholaswilliams"
-
+      username: "ZakariaAlsahfi"
+      url: "https://www.linkedin.com/in/zakariaalsahfi"
 work:
-  - company: "Ozzyware Ltd"
-    position: "Senior Business Intelligence Developer/Consultant"
-    startDate: "2024-07"
+  - company: "University of Business and Technology"
+    position: "Director Of Information Affairs"
+    website: "https://www.ubt.edu.sa/About/Home"
+    startDate: "2021-07-27"
     endDate: ""
     summary: ""
-    highlights:
-      - "Built dynamic Power BI dashboards for sales, inventory, and procurement insights."
-      - "Streamlined reporting and improved data accuracy across departments."
-      - "Enabled rapid data-backed decisions in a fast-paced aftermarket industry."
-
-  - company: "Dynamic Data Analytics Ltd"
-    position: "Founder"
-    startDate: "2024-07"
-    endDate: ""
+    highlights: 
+      - "Led data infrastructure renovation, enhancing processing and storage efficiency by 30%."
+      - "Enhanced decision-making and data access through advanced analytics and management."
+      - "Implemented data visualization tools, increasing stakeholder reporting clarity and engagement by 35%."
+  - company: "Salla E-Commerce Platform"
+    position: "Financial Data Analyst – Freelance"
+    website: "https://salla.com/"
+    startDate: "2021-11-15"
+    endDate: "2022-01-15"
     summary: ""
     highlights:
-      - "Delivered end-to-end Power BI solutions across sectors."
-      - "Specialised in data ingestion, modelling, and strategic dashboards."
-      - "Enabled businesses to turn complex data into actionable insights."
-
-  - company: "CH&CO Group (Compass Group)"
-    position: "Senior Management Information Manager"
-    startDate: "2022-11"
-    endDate: "2024-07"
-    summary: ""
-    highlights:
-      - "Developed robust BI solutions for multiple departments using Power BI."
-      - "Constructed fact/dimension tables and optimised ETL processes."
-      - "Led stakeholder engagements and trained users in Power BI best practices."
-
-  - company: "Linnaeus Group (Mars Petcare)"
-    position: "Business Intelligence Analyst"
-    startDate: "2018-10"
-    endDate: "2022-11"
-    summary: ""
-    highlights:
-      - "Built enterprise-level Power BI reports across Finance, Ops, Legal, and Marketing."
-      - "Developed automated ETL pipelines, dynamic dashboards, and integrated Active Directory for security."
-      - "Led training, built SOPs, and used Power Apps/Power Automate for automation."
-
-  - company: "The Phoenix Group"
-    position: "Finance Project Analyst"
-    startDate: "2015-09"
-    endDate: "2018-10"
-    summary: ""
-    highlights:
-      - "Led MI reporting on projects, budgets, and governance packs."
-      - "Maintained resource and RAID logs and supported financial forecasting."
-
-  - company: "The Parts Alliance Ltd"
-    position: "Management Information Analyst"
-    startDate: "2013-08"
-    endDate: "2015-09"
-    summary: ""
-    highlights:
-      - "Produced and validated MI reports with sensitive financial data."
-      - "Improved rebate yield through better purchase data processes."
-
-  - company: "GeoPost UK Ltd"
-    position: "International Operations Analyst"
-    startDate: "2012-08"
-    endDate: "2013-07"
-    summary: ""
-    highlights:
-      - "Analysed performance trends and generated senior-level MI."
-
-  - company: "Solihull Metropolitan Borough Council"
-    position: "Project Finance Officer"
-    startDate: "2009-10"
-    endDate: "2010-10"
-    summary: ""
-    highlights:
-      - "Created a transparent finance-monitoring tool for non-financial leads."
+        - "Automated and optimized ETL processes, boosting financial reporting efficiency by 30%."
+        - "Analyzed extensive financial datasets supplying key insights for strategic planning and market trends."
+        - "Streamlined financial data analysis, contributing to more precise business strategies and decision-making."
 
 education:
-  - institution: "University of Leeds"
-    area: "Management & History"
-    studyType: "BA Honours"
-    startDate: "2006-09"
-    endDate: "2009-06"
-
-  - institution: "The Sixth Form College, Solihull"
-    area: "Business, Economics, History"
-    studyType: "A-Levels"
-    startDate: "2004-09"
-    endDate: "2006-06"
-
-  - institution: "Tudor Grange School"
-    area: "GCSEs"
-    studyType: "Secondary Education"
-    startDate: "1999-09"
-    endDate: "2004-06"
-
-certificates:
-  - institution: "APM"
-    area: "Project Management Qualification (PMQ)"
-    date: "2018-03"
-
-  - institution: "Microsoft"
-    area: "Power BI Data Analyst Associate (PL-300)"
-    date: "2024-01"
-
-awards:
-  - title: "Freedom Award"
-    date: "2022-01"
-    awarder: "Linnaeus Achievement Awards"
-    summary: "Recognised for outstanding contributions to business intelligence initiatives."
-
-skills:
-  - name: "Business Intelligence Tools"
-    keywords: ["Power BI", "DAX", "Power Query", "Power Automate", "Power Apps", "Dataflow", "Tabular Models"]
-  - name: "Data Tools & Languages"
-    keywords: ["SQL", "Excel", "SharePoint", "Microsoft Lists", "Forms", "Active Directory"]
-  - name: "Methodologies"
-    keywords: ["Agile", "Waterfall", "Azure DevOps Sprint Planning"]
-  - name: "Soft Skills"
-    keywords: ["Communication", "Stakeholder Engagement", "Training & Mentoring", "Analytical Thinking"]
-
-additionalInformation:
-  - "Career break taken between October 2010 – June 2012 to fulfil a long-term ambition of travelling around Australasia and Asia."
+  - institution: "Maryville University of Saint Louis"
+    area: "Data Science"
+    studyType: "M.Sc."
+    startDate: "2019-09-15"
+    endDate:   "2020-12-14"
+    website: "https://www.maryville.edu/"
+  - institution: "Fontbonne University of Saint Louis"
+    area: "Computer Science"
+    studyType: "B.Sc."
+    startDate: "2014-01-14"
+    endDate:   "2018-12-14"
+    website: "https://www.fontbonne.edu/"
+    
+certificate:
+  - institution: "Coursera"
+    area: "Microsoft Power BI Data Analyst"
+    date: "2024-08-13"
+    highlights:
+      - "Completed the Microsoft Power BI Data Analyst program, gaining proficiency in transforming data into actionable insights and creating compelling reports and dashboards."
+      - "Mastered key Power BI concepts including data modeling with Star schema, DAX calculations, and advanced data analysis techniques." 
+      - "Applied hands-on skills in preparing data for analysis in Excel and Power BI, enhancing data-driven decision-making capabilities." 
+      - "Engaged in learning how generative AI tools and techniques are utilized in business intelligence."
+      - "Prepared for and earned a 50% discount voucher towards the PL-300 Microsoft Power BI Data Analyst Certification Exam."
+    
+  - institution: "Coursera"
+    area: "Google Advanced Data Analytics"
+    date: "2024-05-01"
+    highlights:
+      - "Gained ability in advanced data analysis techniques, including statistical modeling and data visualization."
+      - "Applied Google Cloud tools and technologies for comprehensive data analysis solutions."
+      
+  - institution: "IBM on Coursera"
+    area: "Data Visualization with Python"
+    date: "2023-11-01"
+    highlights:
+      - "Use Python libraries like Matplotlib and Seaborn for compelling data storytelling."
+      - "Craft various charts like line, area, histograms, bar, pie, box, scatter, and bubble."
+      - "Produce waffle charts, word clouds, regression plots, and map visualizations."
+      - "Build interactive dashboards with Dash and Plotly, featuring diverse chart types."
+      
+  - institution: "SDA Simplilearn"
+    area: "Business and Data Analyst"
+    date: "2021-11-01"
+    highlights:
+      - "Mastery of data analytics tools and techniques for practical business application."
+      - "Ability to work with SQL databases, and program with R and Python for data analysis tasks."
+      - "Skills in creating insightful data visualizations and applying predictive analytics."
+      - "Hands-on experience through industry-based projects, enhancing job readiness."
+      
+publications:
+  - name: "Machine Learning Classifiers Help to Manage COVID-19 Distribution in China."
+    publisher: "Scientific Report, impact factor: 4.996(Springer Nature)"
+    releaseDate: "2022-08-18"
+    website: "https://doi.org/10.21203/rs.3.rs-1954642/v1"
+    summary: >
+              The authors outline how machine learning classifiers predict and manage the spread of COVID-19 in China. The research delves into the effectiveness of various algorithms in comprehending the virus's transmission and guiding public health decisions. The findings indicate that machine learning can be a pivotal tool in epidemic response strategies by delivering precise predictions and, importantly, facilitating data-driven decision-making to improve the approach's reliability.
+# languages:
+#   - language: "Arabic"
+#     fluency: "Native speaker"
+#   - language: "English"
+#     fluency: "4-5"
