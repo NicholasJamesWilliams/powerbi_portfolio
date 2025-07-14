@@ -2,7 +2,7 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Nicholas Williams"
-  label: "Senior BI Developer"
+  label: "Senior BI Developer | Power BI Specialist | Data Consultant"
   # Replace with actual photo path
   picture: "/assets/img/my_photo.webp"
   email: "nicholas-williams@live.co.uk"
@@ -128,11 +128,18 @@ certificate:  # Corrected key name (singular)
     date: "2024-01-01"  # Fixed date format
     highlights: []  # Added required field
 
-# Unsupported sections removed:
-# awards:
-#   - title: "Freedom Award"
-#     ...
+awards:
+  - title: "Freedom Award"
+    date: "2022-01"
+    awarder: "Linnaeus Achievement Awards"
+    summary: "Recognised for outstanding contributions to business intelligence initiatives."
 
-# skills:
-#   - name: "Business Intelligence Tools"
-#     ...
+skills:
+  - name: "Business Intelligence Tools"
+    keywords: ["Power BI", "DAX", "Power Query", "Power Automate", "Power Apps", "Dataflows"]
+  - name: "Data Tools & Languages"
+    keywords: ["SQL", "Excel", "SharePoint", "Microsoft Lists", "Forms", "Active Directory"]
+  - name: "Methodologies"
+    keywords: ["Agile", "Waterfall", "Azure DevOps Sprint Planning"]
+  - name: "Soft Skills"
+    keywords: ["Communication", "Stakeholder Engagement", "Training & Mentoring", "Analytical Thinking"]
