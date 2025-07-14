@@ -96,21 +96,21 @@ work:
       - "Created a transparent finance-monitoring tool for non-financial leads."
 
 education:
-  - institution: "University of Leeds"
+  - institution: "University of Leeds (2:1)"
     area: "Management & History"
     studyType: "BA Honours"
     startDate: "2006-09-01"  # Fixed date format
     endDate:   "2009-06-01"  # Fixed date format
     website: ""  # Added required field
 
-  - institution: "The Sixth Form College, Solihull"
+  - institution: "The Sixth Form College, Solihull (A,A,B)"
     area: "Business, Economics, History"
     studyType: "A-Levels"
     startDate: "2004-09-01"
     endDate:   "2006-06-01"
     website: ""
 
-  - institution: "Tudor Grange School"
+  - institution: "Tudor Grange School (12 GCSEs at grades A-B)"
     area: "GCSEs"
     studyType: "Secondary Education"
     startDate: "1999-09-01"
