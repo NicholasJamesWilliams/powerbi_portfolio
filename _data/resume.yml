@@ -3,22 +3,20 @@
 basics:
   name: "Nicholas Williams"
   label: "Senior BI Developer"
-  picture: "/assets/img/my_photo.webp"  # Replace with actual photo path
+  # Replace with actual photo path
+  picture: "/assets/img/my_photo.webp"
   email: "nicholas-williams@live.co.uk"
   phone: "+447817596249"
   website: "https://nicholasjameswilliams.github.io/powerbi_portfolio"
-# summary: >
-# Award-winning and highly skilled Business Intelligence professional with over a decade of experience delivering insight and 
-# data driven solutions across finance, operations, marketing, legal, and ecommerce functions. Specialist in Power BI and 
-# Microsoft technologies, known for building intuitive, user-friendly dashboards and leading analytics initiatives that improve 
-# performance and drive decision-making.
-
-
+  # summary: >
+  #   Award-winning and highly skilled Business Intelligence professional...
+  profiles: []  # Required field added
 
 work:
   - company: "Ozzyware Ltd"
     position: "Senior Business Intelligence Developer/Consultant"
-    startDate: "2024-07"
+    website: ""  # Added required field
+    startDate: "2024-07-01"  # Fixed date format
     endDate: ""
     summary: ""
     highlights:
@@ -28,7 +26,8 @@ work:
 
   - company: "Dynamic Data Analytics Ltd"
     position: "Founder"
-    startDate: "2024-07"
+    website: ""
+    startDate: "2024-07-01"
     endDate: ""
     summary: ""
     highlights:
@@ -38,8 +37,9 @@ work:
 
   - company: "CH&CO Group (Compass Group)"
     position: "Senior Management Information Manager"
-    startDate: "2022-11"
-    endDate: "2024-07"
+    website: ""
+    startDate: "2022-11-01"
+    endDate: "2024-07-01"
     summary: ""
     highlights:
       - "Developed robust BI solutions for multiple departments using Power BI."
@@ -48,8 +48,9 @@ work:
 
   - company: "Linnaeus Group (Mars Petcare)"
     position: "Business Intelligence Analyst"
-    startDate: "2018-10"
-    endDate: "2022-11"
+    website: ""
+    startDate: "2018-10-01"
+    endDate: "2022-11-01"
     summary: ""
     highlights:
       - "Built enterprise-level Power BI reports across Finance, Ops, Legal, and Marketing."
@@ -58,8 +59,9 @@ work:
 
   - company: "The Phoenix Group"
     position: "Finance Project Analyst"
-    startDate: "2015-09"
-    endDate: "2018-10"
+    website: ""
+    startDate: "2015-09-01"
+    endDate: "2018-10-01"
     summary: ""
     highlights:
       - "Led MI reporting on projects, budgets, and governance packs."
@@ -67,8 +69,9 @@ work:
 
   - company: "The Parts Alliance Ltd"
     position: "Management Information Analyst"
-    startDate: "2013-08"
-    endDate: "2015-09"
+    website: ""
+    startDate: "2013-08-01"
+    endDate: "2015-09-01"
     summary: ""
     highlights:
       - "Produced and validated MI reports with sensitive financial data."
@@ -76,16 +79,18 @@ work:
 
   - company: "GeoPost UK Ltd"
     position: "International Operations Analyst"
-    startDate: "2012-08"
-    endDate: "2013-07"
+    website: ""
+    startDate: "2012-08-01"
+    endDate: "2013-07-01"
     summary: ""
     highlights:
       - "Analysed performance trends and generated senior-level MI."
 
   - company: "Solihull Metropolitan Borough Council"
     position: "Project Finance Officer"
-    startDate: "2009-10"
-    endDate: "2010-10"
+    website: ""
+    startDate: "2009-10-01"
+    endDate: "2010-10-01"
     summary: ""
     highlights:
       - "Created a transparent finance-monitoring tool for non-financial leads."
@@ -94,44 +99,40 @@ education:
   - institution: "University of Leeds"
     area: "Management & History"
     studyType: "BA Honours"
-    startDate: "2006-09"
-    endDate: "2009-06"
+    startDate: "2006-09-01"  # Fixed date format
+    endDate:   "2009-06-01"  # Fixed date format
+    website: ""  # Added required field
 
   - institution: "The Sixth Form College, Solihull"
     area: "Business, Economics, History"
     studyType: "A-Levels"
-    startDate: "2004-09"
-    endDate: "2006-06"
+    startDate: "2004-09-01"
+    endDate:   "2006-06-01"
+    website: ""
 
   - institution: "Tudor Grange School"
     area: "GCSEs"
     studyType: "Secondary Education"
-    startDate: "1999-09"
-    endDate: "2004-06"
+    startDate: "1999-09-01"
+    endDate:   "2004-06-01"
+    website: ""
 
-certificates:
+certificate:  # Corrected key name (singular)
   - institution: "APM"
     area: "Project Management Qualification (PMQ)"
-    date: "2018-03"
+    date: "2018-03-01"  # Fixed date format
+    highlights: []  # Added required field
 
   - institution: "Microsoft"
     area: "Power BI Data Analyst Associate (PL-300)"
-    date: "2024-01"
+    date: "2024-01-01"  # Fixed date format
+    highlights: []  # Added required field
 
-awards:
-  - title: "Freedom Award"
-    date: "2022-01"
-    awarder: "Linnaeus Achievement Awards"
-    summary: "Recognised for outstanding contributions to business intelligence initiatives."
+# Unsupported sections removed:
+# awards:
+#   - title: "Freedom Award"
+#     ...
 
-skills:
-  - name: "Business Intelligence Tools"
-    keywords: ["Power BI", "DAX", "Power Query", "Power Automate", "Power Apps", "Dataflow", "Tabular Models"]
-  - name: "Data Tools & Languages"
-    keywords: ["SQL", "Excel", "SharePoint", "Microsoft Lists", "Forms", "Active Directory"]
-  - name: "Methodologies"
-    keywords: ["Agile", "Waterfall", "Azure DevOps Sprint Planning"]
-  - name: "Soft Skills"
-    keywords: ["Communication", "Stakeholder Engagement", "Training & Mentoring", "Analytical Thinking"]
-
-
+# skills:
+#   - name: "Business Intelligence Tools"
+#     ...
