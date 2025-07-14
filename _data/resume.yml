@@ -112,7 +112,7 @@ education:
     startDate: "1999-09"
     endDate: "2004-06"
 
-certificates:
+certificate:
   - institution: "APM"
     area: "Project Management Qualification (PMQ)"
     date: "2018-03"
@@ -120,22 +120,11 @@ certificates:
   - institution: "Microsoft"
     area: "Power BI Data Analyst Associate (PL-300)"
     date: "2024-01"
+    highlights:
+      - "Completed the Microsoft Power BI Data Analyst program, gaining proficiency in transforming data into actionable insights and creating compelling reports and dashboards."
+      - "Mastered key Power BI concepts including data modeling with Star schema, DAX calculations, and advanced data analysis techniques." 
+      - "Applied hands-on skills in preparing data for analysis in Excel and Power BI, enhancing data-driven decision-making capabilities." 
+      - "Engaged in learning how generative AI tools and techniques are utilized in business intelligence."
+    
 
-awards:
-  - title: "Freedom Award"
-    date: "2022-01"
-    awarder: "Linnaeus Achievement Awards"
-    summary: "Recognised for outstanding contributions to business intelligence initiatives."
 
-skills:
-  - name: "Business Intelligence Tools"
-    keywords: ["Power BI", "DAX", "Power Query", "Power Automate", "Power Apps", "Dataflow", "Tabular Models"]
-  - name: "Data Tools & Languages"
-    keywords: ["SQL", "Excel", "SharePoint", "Microsoft Lists", "Forms", "Active Directory"]
-  - name: "Methodologies"
-    keywords: ["Agile", "Waterfall", "Azure DevOps Sprint Planning"]
-  - name: "Soft Skills"
-    keywords: ["Communication", "Stakeholder Engagement", "Training & Mentoring", "Analytical Thinking"]
-
-additionalInformation:
-  - "Career break taken between October 2010 – June 2012 to fulfil a long-term ambition of travelling around Australasia and Asia."
