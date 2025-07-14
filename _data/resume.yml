@@ -128,18 +128,3 @@ certificate:  # Corrected key name (singular)
     date: "2024-01-01"  # Fixed date format
     highlights: []  # Added required field
 
-awards:
-  - title: "Freedom Award"
-    date: "2022-01"
-    awarder: "Linnaeus Achievement Awards"
-    summary: "Recognised for outstanding contributions to business intelligence initiatives."
-
-skills:
-  - name: "Business Intelligence Tools"
-    keywords: ["Power BI", "DAX", "Power Query", "Power Automate", "Power Apps", "Dataflows"]
-  - name: "Data Tools & Languages"
-    keywords: ["SQL", "Excel", "SharePoint", "Microsoft Lists", "Forms", "Active Directory"]
-  - name: "Methodologies"
-    keywords: ["Agile", "Waterfall", "Azure DevOps Sprint Planning"]
-  - name: "Soft Skills"
-    keywords: ["Communication", "Stakeholder Engagement", "Training & Mentoring", "Analytical Thinking"]
