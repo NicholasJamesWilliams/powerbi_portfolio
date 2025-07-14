@@ -3,21 +3,18 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Nicholas Williams"
-  label: "Senior BI Developer | Power BI Specialist | Data Consultant"
-  picture: "/assets/img/my_photo.webp"
+  label: "Senior BI Developer"
+  picture: "/assets/img/my_photo.webp"  # Replace with actual photo path
   email: "nicholas-williams@live.co.uk"
-  phone: "+44 7817596249"
-  website: ""
+  phone: "+44 7817596249"  # Update with actual phone if needed
+  website: "https://nicholasjameswilliams.github.io/powerbi_portfolio"
   # summary: >
-  #             Award-winning and highly skilled Business Intelligence professional with over a decade of experience delivering insight and 
-  #             driven data solutions across finance, operations, marketing, legal, and ecommerce functions.
-  #             
-  #             Specialist in Power BI and Microsoft technologies, known for building intuitive, user-friendly dashboards and leading 
-  #             analytics initiatives that improve performance and drive decision-making.
-  
+  #             Award-winning and highly skilled Business Intelligence professional with over a decade of experience delivering insight-driven data solutions across finance, operations, marketing, legal, and ecommerce functions. Specialist in Power BI and Microsoft technologies, known for building intuitive, user-friendly dashboards and leading enterprise-wide analytics initiatives that improve performance and drive decision-making.
+
   profiles:
-   
-   
+    - network: "LinkedIn"
+      username: "NicholasWilliams"
+      url: "https://www.linkedin.com/in/nicholaswilliams"
 work:
   - company: "Ozzyware Ltd"
     position: "Senior Business Intelligence Developer/Consultant"
@@ -137,3 +134,5 @@ skills:
   - name: "Soft Skills"
     keywords: ["Communication", "Stakeholder Engagement", "Training & Mentoring", "Analytical Thinking"]
 
+additionalInformation:
+  - "Career break taken between October 2010 – June 2012 to fulfil a long-term ambition of travelling around Australasia and Asia."
