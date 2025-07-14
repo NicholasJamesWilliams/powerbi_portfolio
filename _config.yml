@@ -146,20 +146,11 @@ defaults:
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
   - scope:
-      type:           posts
-    values:
-      seo:
-        type:         WebPage
-  - scope:
       type:           powerbi
     values:
       seo:
         type:         WebPage
-  - scope:
-      type:           tableau
-    values:
-      seo:
-        type:         WebPage
+
   # Don't include site verification file(for google) in the sitemap
   - scope:
       path:            googled3b87d81c531b9a2.html
