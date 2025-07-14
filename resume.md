@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Résumé
+title: Curriculum Vitae
 description: >
               Award-winning and Microsoft-certified Business Intelligence professional with over a decade of success transforming data into actionable insights across finance, operations, marketing, legal and ecommerce functions. Highly skilled in developing dynamic, user-centric Power BI solutions that drive strategic decisions, operational efficiency, and measurable results.
               
