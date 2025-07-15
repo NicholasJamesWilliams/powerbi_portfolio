@@ -1,9 +1,11 @@
 ---
 # file: powerbi.md
 layout: projects
-title: Power BI Dashboards & Reports
+title: Power BI Reports & Dashboards
 description: > 
-              Explore my diverse Power BI portfolio! This section is a showcase of the versatility of Power BI, with a variety of interactive dashboards and reports I've created using Microsoft Power BI. Each project demonstrates my ability to turn raw data into insightful visualizations that drive informed decision-making. Whether it's sales analysis, financial reporting, or operational metrics, these dashboards highlight my expertise in data modeling, DAX, and Power Query. Discover how I use Power BI to provide clear and actionable insights tailored to different business needs.
+              Dive into a curated selection of Power BI dashboards and reports I have developed across a wide range of industries. Each project showcases my ability to transform complex, multi-source data into intuitive, decision-ready visuals.
+From dynamic sales and inventory analysis to detailed P&L reporting and operational KPIs, these dashboards reflect my expertise in data modelling, DAX, Power Query, and end-to-end BI architecture. Whether working with executive stakeholders, streamlining reporting processes, or integrating advanced automation via Power Automate and dataflows, every solution is built with clarity, performance, and business impact in mind. Discover how I deliver real-time, actionable insights that help organisations make smarter, faster decisions.
+
 show_collection: powerbi
 featured:        true
 ---
