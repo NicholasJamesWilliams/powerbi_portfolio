@@ -175,7 +175,7 @@ collections:
     output:            true
   projects:
     permalink:         /posts/:path/
-    output:            false
+    output:            true
   tableau:
     permalink:          /tableau/:path/
     output:             false
