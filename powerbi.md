@@ -63,9 +63,3 @@ This Net Promoter Score dashboard presents customer feedback segmented by produc
 
 ---
 
-## 🔹 James Bond Report (For Fun 🎬)
-
-A personal project created for fun, this dashboard analyses data on the James Bond film franchise, including actor appearances, missions, vices, cars and iconic gadgets. Data was collected via web scraping and transformed in Power Query. DAX measures were used to compare actors by ROI, film frequency, and era. It's a playful demonstration of Power BI’s ability to tell stories and make cultural data engaging.
- 
-
-<iframe width="100%" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMTFhYmJjYzYtYzZiMy00ZTdiLWE2MjEtNmYxMDgzNjZiYzI5IiwidCI6ImJkMzkzOTIyLWY5YmQtNGFiNi05YjAxLWZmZjFiMTcyMTY3OCIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
